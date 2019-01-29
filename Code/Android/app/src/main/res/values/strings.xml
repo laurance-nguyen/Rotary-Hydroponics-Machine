@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hashirama Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hashirama Senju</string>
+    <string name="nav_header_subtitle">First Hokage of Hidden Leaf Village</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Sign out</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="border">Border</string>
+    <string name="shape">Shape</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="color">Color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="defaultColor">Default</string>
+    <string name="email_address">senju_hashirama@gmail.com</string>
+    <string name="phone_number">+84 982 407 168</string>
+
+</resources>
